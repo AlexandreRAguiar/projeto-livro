@@ -1,0 +1,46 @@
+* {
+    font-family: 'Tahoma', sans-serif;
+    margin: 0;
+    padding: 0;
+    --cor01-:#000000;
+    --cor02-:#F5F5F5;
+    --cor03-:#D5D5D5;
+    --cor04-:#49B970;
+}
+
+div{
+    text-align: center;
+    padding: 50px;
+    border-top: 1px solid #D5D5D5;
+    background-color: #F5F5F5;
+}
+
+img{
+    width: 190px;
+}
+span{
+    font-weight: bold;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+    margin: 15px 0px;
+}
+
+
+
+p{
+    margin:15px auto  35px auto;
+    width: 930px;
+    line-height: 28px;
+}
+
+a{
+    padding: 10px 30px;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #49b970;
+    color: #ffffff;
+    border-radius: 25px;
+}
